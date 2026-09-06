@@ -1,0 +1,9 @@
+# Client configs contain PRIVATE KEYS — never commit them.
+clients/
+*.key
+
+# Local settings: real endpoint, SSH host, network details.
+wg.env
+wg.env.bak
+
+.claude/
