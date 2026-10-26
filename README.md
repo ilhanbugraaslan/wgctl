@@ -168,3 +168,18 @@ default gateway would resolve through the tunnel, and routing would loop.
 | `<name>-home` | VPN subnet only | server LAN IP | on the server's LAN |
 
 Both use the same peer address, so only one can be up at a time.
+
+## License
+
+MIT. See [LICENSE](LICENSE).
+
+## Who maintains this
+
+Built and maintained by [wedevit](https://wedevit.net), an independent IT team
+that designs and runs network and server infrastructure: site-to-site and
+remote-access VPN, VLAN segmentation, firewall configuration and server builds.
+We resell no hardware and take no vendor commission.
+
+If you are setting up remote access for a company rather than a homelab, the
+[network and connectivity](https://wedevit.net/en/services/network) page covers
+how that work is scoped.
